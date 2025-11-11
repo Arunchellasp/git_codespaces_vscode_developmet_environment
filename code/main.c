@@ -2,7 +2,6 @@
 
 int main ()
 {
-
-    printf("arun");
+printf("arun");
 return 0;
 }
